@@ -1,2 +1,2 @@
-# macro
-Repository macroeconometrics
+# Macroeconometrics
+This repository contains some notes on macroeconometrics
