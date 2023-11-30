@@ -25,7 +25,7 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 - **Ambrogio Cesa Bianchi:** [A primer on vecttor autoregression slides](https://drive.google.com/file/d/14LA-q41ns364CtlkJYxF1h-JgCWM-HCy/view), VAR [toolbox](https://github.com/ambropo/VAR-Toolbox) **and replication** of [VAR and DSGE models](https://sites.google.com/site/ambropo/replications). See also [GVAR](https://drive.google.com/file/d/19HRnTejKMIkHJz3BWXEdLGI49ujLLWDS/view)
   
-- **Kevin Kotze's course (with R files)**: [Time Series analysis](https://www.economodel.com/time-series-analysis) 
+- **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis) 
 
 ### Macroeconomics:
 
