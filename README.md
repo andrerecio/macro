@@ -19,7 +19,7 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 ### Macroeconometrics 
 
--**Structural macroeconometrics:** [Luca Fanelli's slides](https://github.com/andrerecio/macro/blob/main/StructuralMacro_Luca_Fanelli.pdf)
+- **Structural macroeconometrics:** [Luca Fanelli's slides](https://github.com/andrerecio/macro/blob/main/StructuralMacro_Luca_Fanelli.pdf)
 
-- **VAR and SVAR estimation (with MatLab)**[Dario Caldara's website](https://sites.google.com/view/dariocaldara/teaching)
+- **VAR and SVAR estimation (with MatLab):** [Dario Caldara's website](https://sites.google.com/view/dariocaldara/teaching)
 
