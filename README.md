@@ -35,5 +35,7 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 -[Coding for economist](https://aeturrell.github.io/coding-for-economists/intro.html#)
 
+-[Statitics and machine learning in Python](https://duchesnay.github.io/pystatsml/)
+
 ### R:
 
