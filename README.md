@@ -35,5 +35,5 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 -[Coding for economist](https://aeturrell.github.io/coding-for-economists/intro.html#)
 
-### R
+### R:
 
