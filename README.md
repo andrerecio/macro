@@ -38,4 +38,4 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 -[Statitics and machine learning in Python](https://duchesnay.github.io/pystatsml/)
 
 ### R:
-
+-[R for data sciences](https://r4ds.had.co.nz/)
