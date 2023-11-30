@@ -11,10 +11,11 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 -[Principles of econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
 
+-[Using R for introductory econometrics](https://www.urfie.net/downloads/PDF/URfIE_web.pdf)
+
 
 
 ### Macroeconometrics 
 
 -**Structural macroeconometrics:** [Luca Fanelli's slides](https://github.com/andrerecio/macro/blob/main/StructuralMacro_Luca_Fanelli.pdf)
 
--**Principles of econometrics:**[with R](https://bookdown.org/ccolonescu/RPoE4/)
