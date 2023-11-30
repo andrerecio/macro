@@ -31,6 +31,8 @@ Econometrics materials that are available on the web. See also #EconTwitter and 
 
 - **Ambrogio Cesa Bianchi:** [Methods in macroeconomic dynamics](https://drive.google.com/file/d/1JgB84T97Uuh3573VwqOPZct3E7ZvpXGb/view)
 
+- **Alessandro Bramucci:**[Introduction to Macroeconomics: Pluralist and Interactive](https://eng.mgwk.de/)
+
 - **Johannes Pfeifer:**[Dynare](https://sites.google.com/site/pfeiferecon/dynare)
 
 ### Python:
