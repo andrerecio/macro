@@ -13,6 +13,8 @@ Some Econometrics materials that are available on the web. See also #EconTwitter
 
 -[Using R for introductory econometrics](https://www.urfie.net/downloads/PDF/URfIE_web.pdf)
 
+-[Introduction to econometrics with R](https://www.econometrics-with-r.org/index.html)
+
 
 
 ### Macroeconometrics 
