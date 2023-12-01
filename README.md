@@ -29,6 +29,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
   
 - **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis)
 
+- **Hedibert Freitas Lopes:**[Time Series, in particular bayesian with R applications (complete course; see teaching material](https://hedibert.org/current-teaching/)
+
 - **Bent Sorensen**: 
 
 ### Macroeconomics:
@@ -61,3 +63,7 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[R for data science](https://r4ds.had.co.nz/)
 
 -[Learning statistics with R](https://learningstatisticswithr.com/), online [book](https://learningstatisticswithr.com/book/)
+
+### Statitics 
+
+-[Applied empirical methods](https://github.com/paulgp/applied-methods-phd)
