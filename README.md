@@ -31,7 +31,7 @@ Econometrics materials that are available on the web. See also #EconTwitter and 
 
 ### Macroeconomics:
 
--**Francois Geerolf (UCLA):**[Intermediate Macroeconomics](https://fgeerolf.com/econ102/)
+- **Francois Geerolf (UCLA):**[Intermediate Macroeconomics](https://fgeerolf.com/econ102/)
 
 - **Ambrogio Cesa Bianchi:** [Methods in macroeconomic dynamics](https://drive.google.com/file/d/1JgB84T97Uuh3573VwqOPZct3E7ZvpXGb/view)
 
