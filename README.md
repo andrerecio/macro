@@ -3,7 +3,7 @@ This repository contains some notes on macroeconometrics
 
 ## Table of contents
 ## Introduction 
-Econometrics materials that are available on the web. See also #EconTwitter and [Giuseppe Cavaliere's website](https://giuseppecavaliere.wixsite.com/giuseppe/econometrics-lecture-notes-and-books) 
+Econometrics materials that are available on the web. See also #EconTwitter, [Giuseppe Cavaliere's website](https://giuseppecavaliere.wixsite.com/giuseppe/econometrics-lecture-notes-and-books) and Christine Cai [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
 
 ### Introduction to econometrics (with R):
 
@@ -27,11 +27,15 @@ Econometrics materials that are available on the web. See also #EconTwitter and 
 
 - **Òscar Jordà and Karel Mertens** Techniques of Empirical Macroeconomics: [Part 1](https://www.aeaweb.org/content/file?id=17940), [Part 2: state space](https://www.aeaweb.org/content/file?id=17941), [Part 3: local projection](https://www.aeaweb.org/content/file?id=17942), [Part 4](https://assets.aeaweb.org/asset-server/files/17943.pdf), [Part 5a](https://assets.aeaweb.org/asset-server/files/17944.pdf), [Part 5b](https://www.aeaweb.org/content/file?id=17945), [Part 6](https://www.aeaweb.org/content/file?id=17946), [Part 7](https://assets.aeaweb.org/asset-server/files/17947.pdf), [Code](https://sites.google.com/site/oscarjorda/home/local-projections/aea-continuing-education-2023) and [webcasts](https://www.aeaweb.org/conference/cont-ed/2023-webcasts)
   
-- **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis) 
+- **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis)
+
+- **Bent Sorensen**: 
 
 ### Macroeconomics:
 
 - **Francois Geerolf (UCLA):**[Intermediate Macroeconomics](https://fgeerolf.com/econ102/)
+
+- **Pascal Michaillat:**[Intermediate Macroeconomics](https://pascalmichaillat.org/c4/) and [Mathematics for Macroeconomics](https://pascalmichaillat.org/c3/)
 
 - **Ambrogio Cesa Bianchi:** [Methods in macroeconomic dynamics](https://drive.google.com/file/d/1JgB84T97Uuh3573VwqOPZct3E7ZvpXGb/view)
 
@@ -39,9 +43,13 @@ Econometrics materials that are available on the web. See also #EconTwitter and 
 
 - **Johannes Pfeifer:**[Dynare](https://sites.google.com/site/pfeiferecon/dynare)
 
+- Macroeconomics shocks and their propagation
+
 ### Python:
 
 -[Introduction course by Kevin Sheppard](https://www.kevinsheppard.com/teaching/python/), [MATLAB](https://www.kevinsheppard.com/teaching/matlab/notes/) 
+
+-[Econometrics and statitics (including bayesian statistics) with Python](https://github.com/weijie-chen)
 
 -[Coding for economist](https://aeturrell.github.io/coding-for-economists/intro.html#)
 
@@ -51,3 +59,5 @@ Econometrics materials that are available on the web. See also #EconTwitter and 
 
 ### R:
 -[R for data science](https://r4ds.had.co.nz/)
+
+-[Learning statistics with R](https://learningstatisticswithr.com/), online [book](https://learningstatisticswithr.com/book/)
