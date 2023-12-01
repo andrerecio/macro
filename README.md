@@ -40,7 +40,7 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 ### Macroeconomics:
 
--**Jesús Fernández-Villaverde:**[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+- **Jesús Fernández-Villaverde:**[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 - **Francois Geerolf (UCLA):**[Intermediate Macroeconomics](https://fgeerolf.com/econ102/)
 
