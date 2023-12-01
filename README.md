@@ -27,7 +27,7 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 - **Òscar Jordà and Karel Mertens** Techniques of Empirical Macroeconomics: [Part 1](https://www.aeaweb.org/content/file?id=17940), [Part 2: state space](https://www.aeaweb.org/content/file?id=17941), [Part 3: local projection](https://www.aeaweb.org/content/file?id=17942), [Part 4](https://assets.aeaweb.org/asset-server/files/17943.pdf), [Part 5a](https://assets.aeaweb.org/asset-server/files/17944.pdf), [Part 5b](https://www.aeaweb.org/content/file?id=17945), [Part 6](https://www.aeaweb.org/content/file?id=17946), [Part 7](https://assets.aeaweb.org/asset-server/files/17947.pdf), [Code](https://sites.google.com/site/oscarjorda/home/local-projections/aea-continuing-education-2023) and [webcasts](https://www.aeaweb.org/conference/cont-ed/2023-webcasts)
 
-- - -**Jesús Fernández-Villaverde:**[Courses on Computation: computional methods for economist, machine learning for macroeconomics, ](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+- **Jesús Fernández-Villaverde:**[Courses on Computation: computional methods for economist, machine learning for macroeconomics, ](https://www.sas.upenn.edu/~jesusfv/teaching.html)
   
 - **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis)
 
