@@ -26,6 +26,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 - **Ambrogio Cesa Bianchi:** [A primer on vector autoregression slides](https://drive.google.com/file/d/14LA-q41ns364CtlkJYxF1h-JgCWM-HCy/view), VAR [toolbox](https://github.com/ambropo/VAR-Toolbox) **and replication** of [VAR and DSGE models](https://sites.google.com/site/ambropo/replications). See also [GVAR](https://drive.google.com/file/d/19HRnTejKMIkHJz3BWXEdLGI49ujLLWDS/view)
 
 - **Òscar Jordà and Karel Mertens** Techniques of Empirical Macroeconomics: [Part 1](https://www.aeaweb.org/content/file?id=17940), [Part 2: state space](https://www.aeaweb.org/content/file?id=17941), [Part 3: local projection](https://www.aeaweb.org/content/file?id=17942), [Part 4](https://assets.aeaweb.org/asset-server/files/17943.pdf), [Part 5a](https://assets.aeaweb.org/asset-server/files/17944.pdf), [Part 5b](https://www.aeaweb.org/content/file?id=17945), [Part 6](https://www.aeaweb.org/content/file?id=17946), [Part 7](https://assets.aeaweb.org/asset-server/files/17947.pdf), [Code](https://sites.google.com/site/oscarjorda/home/local-projections/aea-continuing-education-2023) and [webcasts](https://www.aeaweb.org/conference/cont-ed/2023-webcasts)
+
+- - -**Jesús Fernández-Villaverde:**[Courses on Computation: computional methods for economist, machine learning for macroeconomics, ](https://www.sas.upenn.edu/~jesusfv/teaching.html)
   
 - **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis)
 
@@ -33,9 +35,12 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 - **Gary Koop:** [Bayesian methods for empirical macroeconomics](https://drive.google.com/file/d/1Ga4WVm9tSpvJ2r-JIjEa8LQC8FTM1jNC/view), lecture slide on [bayesian econometrics (including VAR)](https://sites.google.com/site/garykoop/teaching/sgpe-bayesian-econometrics)
 
+-**Andre Blake and Haroon Mumtaz:**[Applied bayesian econometrics for central bankers](https://drive.google.com/file/d/1GqkvZi-So2r-kyEXVfKUM4a-Kl6T5Cdv/view)
 - **Bent Sorensen**: 
 
 ### Macroeconomics:
+
+-**Jesús Fernández-Villaverde:**[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 - **Francois Geerolf (UCLA):**[Intermediate Macroeconomics](https://fgeerolf.com/econ102/)
 
