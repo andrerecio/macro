@@ -35,7 +35,7 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 - **Gary Koop:** [Bayesian methods for empirical macroeconomics](https://drive.google.com/file/d/1Ga4WVm9tSpvJ2r-JIjEa8LQC8FTM1jNC/view), lecture slide on [bayesian econometrics (including VAR)](https://sites.google.com/site/garykoop/teaching/sgpe-bayesian-econometrics)
 
--**Andre Blake and Haroon Mumtaz:**[Applied bayesian econometrics for central bankers](https://drive.google.com/file/d/1GqkvZi-So2r-kyEXVfKUM4a-Kl6T5Cdv/view)
+- **Andrew Blake and Haroon Mumtaz:**[Applied bayesian econometrics for central bankers](https://drive.google.com/file/d/1GqkvZi-So2r-kyEXVfKUM4a-Kl6T5Cdv/view)
 - **Bent Sorensen**: 
 
 ### Macroeconomics:
