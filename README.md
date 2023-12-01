@@ -29,7 +29,7 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
   
 - **Kevin Kotze's course (with R files, including univariate time series)**: [Time Series analysis](https://www.economodel.com/time-series-analysis)
 
-- **Hedibert Freitas Lopes:**[Time Series, in particular bayesian with R applications (complete course; see teaching material](https://hedibert.org/current-teaching/)
+- **Hedibert Freitas Lopes:**[Time Series, in particular bayesian with R applications (complete course; see teaching material)](https://hedibert.org/current-teaching/)
 
 - **Bent Sorensen**: 
 
