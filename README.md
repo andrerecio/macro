@@ -52,6 +52,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 - **Johannes Pfeifer:**[Dynare](https://sites.google.com/site/pfeiferecon/dynare)
 
+- **Florin O. Bilbiie:** [HANK made easy](https://drive.google.com/file/d/1dQ5mjsp3KUErTW77lMwMHjBZrrlIuCW0/view)
+
 - Macroeconomics shocks and their propagation
 
 ### Python:
