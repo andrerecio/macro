@@ -7,6 +7,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 ### Introduction to econometrics (with R):
 
+-[Edward Rubin](https://github.com/edrubin/EC421S19) and in [particular](https://github.com/edrubin/EC607S23)
+
 -[Econometrics with R Sciences Po](https://scpoecon.github.io/ScPoEconometrics/) 
 
 -[Principles of econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
@@ -14,6 +16,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[Using R for introductory econometrics](https://www.urfie.net/downloads/PDF/URfIE_web.pdf)
 
 -[Introduction to econometrics with R](https://www.econometrics-with-r.org/index.html) and [PDF](https://www.econometrics-with-r.org/ITER.pdf)
+
+-[Prediction and machine learning in econometrics](https://github.com/edrubin/EC524W23)
 
 
 
@@ -69,6 +73,9 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[Python for data science](https://aeturrell.github.io/python4DS/welcome.html#)
 
 ### R:
+
+-[Data science for economists](https://github.com/uo-ec607/lectures)
+
 -[R for data science](https://r4ds.had.co.nz/)
 
 -[Learning statistics with R](https://learningstatisticswithr.com/), online [book](https://learningstatisticswithr.com/book/)
@@ -76,3 +83,5 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 ### Statitics 
 
 -[Applied empirical methods](https://github.com/paulgp/applied-methods-phd)
+
+-[Introduction to causal inference](https://www.bradyneal.com/causal-inference-course)
