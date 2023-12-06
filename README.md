@@ -74,6 +74,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 ### R:
 
+-[Github and Rstudio](https://happygitwithr.com/)
+
 -[Data science for economists](https://github.com/uo-ec607/lectures)
 
 -[R for data science](https://r4ds.had.co.nz/)
