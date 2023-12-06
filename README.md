@@ -82,6 +82,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 -[Learning statistics with R](https://learningstatisticswithr.com/), online [book](https://learningstatisticswithr.com/book/)
 
+-[ggplot](https://designing-ggplots.netlify.com/)
+
 ### Statitics 
 
 -[Applied empirical methods](https://github.com/paulgp/applied-methods-phd)
