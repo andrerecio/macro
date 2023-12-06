@@ -86,6 +86,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 -[ggplot](https://designing-ggplots.netlify.com/)
 
+-[R markdown](https://bookdown.org/yihui/rmarkdown/)
+
 ### Statitics 
 
 -[Applied empirical methods](https://github.com/paulgp/applied-methods-phd)
