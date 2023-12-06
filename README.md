@@ -82,7 +82,11 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 -[Learning statistics with R](https://learningstatisticswithr.com/), online [book](https://learningstatisticswithr.com/book/)
 
+-[Statistical learning](https://bookdown.org/yihui/rmarkdown/)
+
 -[Causal inference in R](https://www.r-causal.org/)
+
+-[Causal inference](https://sta-679-s22.netlify.app/schedule)
 
 -[ggplot](https://designing-ggplots.netlify.com/)
 
