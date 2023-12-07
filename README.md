@@ -62,6 +62,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 
 ### Python:
 
+-[Python quick reference](https://github.com/justmarkham/python-reference)
+
 -[Introduction course by Kevin Sheppard](https://www.kevinsheppard.com/teaching/python/), [MATLAB](https://www.kevinsheppard.com/teaching/matlab/notes/) 
 
 -[Econometrics and statitics (including bayesian statistics) with Python](https://github.com/weijie-chen)
