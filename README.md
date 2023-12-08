@@ -99,3 +99,5 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[Applied empirical methods](https://github.com/paulgp/applied-methods-phd)
 
 -[Introduction to causal inference](https://www.bradyneal.com/causal-inference-course)
+
+-[Applied Time Series Analysis for Fisheries and Environmental Sciences](https://atsa-es.github.io/atsa-labs/)
