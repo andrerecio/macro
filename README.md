@@ -5,7 +5,7 @@ This repository contains some notes on macroeconometrics
 ## Introduction 
 Econometrics materials that are available on the web. See also #EconTwitter, [Giuseppe Cavaliere's website](https://giuseppecavaliere.wixsite.com/giuseppe/econometrics-lecture-notes-and-books) and Christine Cai [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
 
-### Introduction to econometrics (with R):
+### Econometrics:
 
 -[Edward Rubin](https://github.com/edrubin/EC421S19) and in [particular](https://github.com/edrubin/EC607S23)
 
@@ -18,6 +18,8 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[Introduction to econometrics with R](https://www.econometrics-with-r.org/index.html) and [PDF](https://www.econometrics-with-r.org/ITER.pdf)
 
 -[Prediction and machine learning in econometrics](https://github.com/edrubin/EC524W23)
+
+-[A Very Short Course on Time Series Analysis](https://bookdown.org/rdpeng/timeseriesbook/)
 
 
 
