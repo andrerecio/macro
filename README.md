@@ -22,6 +22,10 @@ Econometrics materials that are available on the web. See also #EconTwitter, [Gi
 -[A Very Short Course on Time Series Analysis](https://bookdown.org/rdpeng/timeseriesbook/)
 
 
+### Time series econometrics
+
+-[Time series](https://jduras.github.io/eco5316.html)
+
 
 ### Macroeconometrics:
 
