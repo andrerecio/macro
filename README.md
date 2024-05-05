@@ -1,5 +1,5 @@
 # Macroeconometrics
-This repository contains some notes on macroeconometrics
+This repository contains some notes on econometrics 
 
 ## Table of contents
 ## Introduction 
